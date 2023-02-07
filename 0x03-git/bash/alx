@@ -1,6 +1,6 @@
 <<<<<<< HEAD
-echo "ALX School"
+echo "ALX school"
 =======
-echo "ALX School"
+echo "ALX school"
 >>>>>>> master
 #!/bin/bash
