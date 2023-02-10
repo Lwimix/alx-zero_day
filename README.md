@@ -1,2 +1,2 @@
 My first readme
-Changed from Github now
+Changed from my Pc 
